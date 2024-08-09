@@ -1,5 +1,5 @@
 Function Descuentos(Parameters)
-	' Parameters = "C:\Users\CSF5266\Desktop\Formato de Reporte de MONTI SIN LIMITES $.xlsx"
+	' Parameters = "C:\Users\CSF5266\Desktop\Formato de Reporte de LIMITES $.xlsx"
 	
 	arr=split(Parameters,"#")
 	sReportePath=arr(0)

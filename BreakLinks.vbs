@@ -1,5 +1,5 @@
 Sub BreakLinks
-	WorkbookPath = "C:\Users\CSF5266\Downloads\BS - OCCI. DISTRIBUCIONES.xlsx"
+	WorkbookPath = "C:\Users\CSF5266\Downloads\BS - OC. DISTRIBUCIONES.xlsx"
 	
 	Set objExcel = CreateObject("Excel.Application")
 	

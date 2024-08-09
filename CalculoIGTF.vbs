@@ -43,5 +43,3 @@ Function CalculoIGTF(SetValues)
 
 End Function
 Call CalculoIGTF
-
-C:\CuentasPorCobrarVnzla\Output/BCO NOVIEMBRE BS 2023.xlsx#806#100135314#AUTOMERCADO EXPRESS 2707 #04/04/2024#04/04/2024#BOT#PROVINCIAL

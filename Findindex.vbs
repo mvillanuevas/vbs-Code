@@ -8,7 +8,7 @@ Function FindIndex(Parameters)
 	arr = split(Parameters,"#")
 	WorkbookPath = arr(0)
 	
-	' WorkbookPath = "C:\Users\CSF5266\Downloads\BS - INDEX NO AUTOMERCADO LUZ 005-315080 .xlsx"
+	' WorkbookPath = "C:\Users\CSF5266\Downloads\BS - INDEX  .xlsx"
 	
 	'Genera un objeto de tipo Excel Application
 	Set objExcel = CreateObject("Excel.Application")

@@ -9,9 +9,6 @@ Function Classify(Parameters)
 	WorkbookPathModule = arr(1)
 	amount = arr(2)
 	
-	' WorkbookPathModule = "C:\CuentasPorCobrarVnzla\Temp\BS - COMERCIALIZADORA CHOCOMAYOR.xlsx"
-	' WorkbookPathData ="C:\CuentasPorCobrarVnzla\Output\Datos basicos.xlsx"
-	' amount = "10,339.79"
 	
 	'Genera un objeto de tipo Excel Application
 	Set objExcel = CreateObject("Excel.Application")
@@ -242,6 +239,6 @@ Function Classify(Parameters)
 	
 End Function
 
-Parameters = "C:\CuentasPorCobrarVnzla\Output\Datos basicos.xlsx#C:\CuentasPorCobrarVnzla\Temp\AUTOMERCADO LA MURALLA  - 005-366973.xlsx#150"
+Parameters = "C:\CuentasPorCobrarVnzla\Output\Datos basicos.xlsx#C:\CuentasPorCobrarVnzla\Temp\AUTOMERCADO66973.xlsx#150"
 
 MsgBox Classify(Parameters)
