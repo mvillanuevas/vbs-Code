@@ -4,7 +4,7 @@ Sub macro'(SetValues)
   
   Dim arr,sIGTFilePath,sExcelRow,sCodClient,sClient,sEmailSendDate,sCurrentDate,sValueBot,sTab,sDocumentNumber
   
-  SetValues="C:\CuentasPorCobrarVnzla\Output/BCO MAYO BS 2023.xlsx#2400#156167354#CENTRO DISTRIBUCIONES FRANCIS#04/02/2024#04/02/2024#BOT#BANESCO#500000002"
+  SetValues="C:\CuentasPorCobrarVnzla\Output/BCO MAYO BS 2023.xlsx#2400#156167354#CENTRO DISTRIBUCIONES#04/02/2024#04/02/2024#BOT#BANCO#500000002"
   
   arr=split(SetValues,"#")
   sIGTFilePath=arr(0)

@@ -1,6 +1,6 @@
 Sub macro'(Parameters)
   
-	Parameters = "C:\CuentasPorCobrarVnzla\Output\Formato Indexacion.xlsx#156162624#URIEL C.A.#005-312860#5893054476#4/21/2023#87,829.91#75,715.44##4#24.5739#24.5763747083234#4/17/2023#4/17/2023#4/22/2023#C:\CuentasPorCobrarVnzla\Temp\Formato de Reporte de Cobranzas - URIEL.xlsx#C:\CuentasPorCobrarVnzla\Output\Maestro Clientes.xlsx"
+	Parameters = "C:\CuentasPorCobrarVnzla\Output\Formato Indexacion.xlsx#156162624#URI.#005-312860#5893054476#4/21/2023#87,829.91#75,715.44##4#24.5739#24.5763747083234#4/17/2023#4/17/2023#4/22/2023#C:\CuentasPorCobrarVnzla\Temp\Formato de Reporte de Cobranzas - URIEL.xlsx#C:\CuentasPorCobrarVnzla\Output\Maestro Clientes.xlsx"
   	arr=split(Parameters,"#")
 	sIndexacionFilePath=arr(0)
 	sCodClient=arr(1)

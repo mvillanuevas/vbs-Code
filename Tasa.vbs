@@ -1,5 +1,5 @@
 Sub TasaPromedio'(Parameters)
-	Parameters = "C:\CuentasPorCobrarVnzla\Temp\Formato de Reporte de MONTI SIN LIMITES $.xlsx"
+	Parameters = "C:\CuentasPorCobrarVnzla\Temp\Formato de Reporte de MONTI.xlsx"
 	
 	arr=split(Parameters,"#")
 	sReportePath=arr(0)

@@ -70,7 +70,4 @@ Sub ReporteLog(Parameters)
 	'Quita la instancia del objeto Excel
 	objExcel.Quit
 End Sub
-'Parameters = "C:\CuentasPorCobrarVnzla\Output/Reporte_Log.xlsx#2024-07-26#Fw: SOPORTE DE PAGO#26/07/2024 08:35:31#Miguel.Fandino@mdlz.com#0#Error on task: ST_DollarsTransaction; error: SP_SAPTransaction_F-28_EndProcess error:Incorrect field path entered. Verify correct field path and try again.; line:74 line: 148#MAYO"
-Parameters = "C:\CuentasPorCobrarVnzla\Output/Reporte_Log.xlsx#2024-07-29#SOPORTE DE PAGO_BS_DISTRIBUIDORA FULL PROGRESO,_005-367243#29/07/2024 18:55:09#Manuel.Serrano@mdlz.com#1##JULIO"
 
-Call ReporteLog(Parameters)

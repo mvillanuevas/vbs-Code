@@ -7,7 +7,6 @@ Function CreditNote(Parameters)
 	arr = split(Parameters,"#")
 	WorkbookPath = arr(0)
 	
-	'WorkbookPath = "C:\CuentasPorCobrarVnzla\Temp\BS - COMERCIALIZADORA CHOCOMAYOR.xlsx"
 	
 	'Genera un objeto de tipo Excel Application
 	Set objExcel = CreateObject("Excel.Application")

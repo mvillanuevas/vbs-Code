@@ -71,5 +71,5 @@ Sub MontoAbierto(Parameters)
 	
 End Sub
 
-Parameters= "C:\Users\CSF5266\Downloads\Formato de Reporte de Cobranza MANSION DEL CARIBE MIXTO.xlsx#"
+Parameters= "C:\Users\CSF5266\Downloads\Formato de Reporte de Cobranza MANSION.xlsx#"
 Call MontoAbierto(Parameters)

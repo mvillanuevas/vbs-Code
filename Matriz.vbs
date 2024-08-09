@@ -2,7 +2,7 @@ Call macro
 Sub macro'(Parameters)
   
   	Dim arr,strZEP1CompletePath,strMatrizSustitucionCompletePath
-	Parameters = "C:\DSDandCaseFillRate\Input/ZEP1.xlsx#C:\DSDandCaseFillRate\Input\Matriz_sustituciones.xlsx#C:\DSDandCaseFillRate\Input\Ricolino_Products.xlsx"
+	Parameters = "C:\DSDandCaseFillRate\Input/ZEP1.xlsx#C:\DSDandCaseFillRate\Input\Matriz_sustituciones.xlsx#C:\DSDandCaseFillRate\Input\Products.xlsx"
 	
 	arr=split(Parameters,"#")
 	strZEP1CompletePath=arr(0)

@@ -1,4 +1,4 @@
-Parameters = "C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Output\Formato Indexacion.xlsx####19######C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Temp\PRACTIMERCADO MINUTO LOS PALOS GRANDES 005-360253 - 005-360254 - 005-360255.xlsx#C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Output\Maestro Clientes.xlsx#"
+Parameters = "C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Output\Formato Indexacion.xlsx####19######C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Temp\MINUTO LOS P.xlsx#C:\Users\CSF5266\Downloads\CuentasPorCobrarVnzla1\Output\Maestro Clientes.xlsx#"
 Call macro(Parameters)
 
 Sub macro(Parameters)

@@ -200,6 +200,3 @@ Sub macro(Parameters)
   
   
 End Sub
-
-Parameters = "C:\DSDandCaseFillRate\Input\Matriz_sustituciones.xlsx#C:\DSDandCaseFillRate\Input\Ricolino_Products.xlsx"
-Call macro(Parameters)

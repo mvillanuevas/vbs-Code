@@ -1,5 +1,5 @@
-Sub CopyCreateWorkbook'(ParametersTwo)
-  ParametersTwo="C:\CuentasPorCobrarVnzla\Temp\Formato de Reporte de Cobranza MANSION DEL CARIBE 2.xlsx#Reporte del Pago#C:\CuentasPorCobrarVnzla\Output\ReportePago.xlsx"
+Sub CopyCreateWorkbook(ParametersTwo)
+
   Dim arr,strExcelName,strNewWb,strSheetName
   arr=split(ParametersTwo,"#")
   strExcelName=arr(0)
